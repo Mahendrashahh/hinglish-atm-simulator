@@ -28,7 +28,7 @@ It’s designed for beginners to learn how basic logic like input/output, condit
 1. Make sure Python is installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Mahendrashahh/hinglish-atm-simulator.git
+   git clone [https://github.com/Mahendrashahh/hinglish-atm-simulator.git](https://github.com/Mahendrashahh/hinglish-atm-simulator.git)
    cd hinglish-atm-simulator
 
    
